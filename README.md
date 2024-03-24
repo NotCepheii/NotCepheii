@@ -1,8 +1,6 @@
-<h1>Hi, I'm Leo Roel (or Leo)! <br/><a href="https://github.com/NotCepheii"> <a href="https://www.linkedin.com/in/leo-roel-manalansan/">Cybersecurity Professional</a>
+<h1>Hi, I'm Leo Roel (or Leo)! <br/><a href="https://github.com/NotCepheii"> <a href="https://www.linkedin.com/in/leo-roel-manalansan/">Aspiring Cybersecurity Professional | Air Force Veteran</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Active Directory Home Lab</b>
 
   - [AD Home Lab](https://github.com/NotCepheii/LABURL)
   - [Python Projects](https://github.com/NotCepheii/LABURL)
