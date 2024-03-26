@@ -9,7 +9,7 @@
 
   - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/G4UWDN8KK7S7)
   - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/FDCZC29NDT7Q)
-  - [CompTIA A+ IN-PROGRESS](https://www.coursera.org)
+  - [CompTIA A+](https://www.credly.com/badges/776f80d7-916a-44cd-adc2-f28c8ff0e05a/public_url)
   - [CompTIA NET+ IN-PROGRESS](https://www.coursera.org)
   - [CompTIA SEC+ IN-PROGRESS](https://www.coursera.org)
   - [CompTIA CySA+ IN-PROGRESS](https://www.coursera.org)
