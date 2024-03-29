@@ -1,4 +1,4 @@
-<h1>Hi, I'm Leo Roel (or Leo)! <br/><a href="https://github.com/NotCepheii"> <a href="https://www.linkedin.com/in/leo-roel-manalansan/">Aspiring Cybersecurity Professional | Air Force Veteran</a>
+<h1>Hi, I'm Leo Roel (or Leo)! <br/><a href="https://github.com/NotCepheii"> <a href="https://www.linkedin.com/in/leo-roel-manalansan/">Aspiring IT Professional | Air Force Veteran</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
