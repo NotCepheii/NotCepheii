@@ -6,8 +6,7 @@
   - [Python Projects](https://github.com/NotCepheii/LABURL)
     
 <h2> Certifications</h2>
-
-  - [Google IT Support Professional](https://www.coursera.org/account/accomplishments/professional-cert/G4UWDN8KK7S7)
+  - [Google IT Support Professional & CompTIA A+ Dual Credential](https://www.credly.com/earner/earned/badge/a862f5d9-9a3e-469b-a392-f2ee468182d4)
   - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/FDCZC29NDT7Q)
   - [CompTIA A+](https://www.credly.com/badges/776f80d7-916a-44cd-adc2-f28c8ff0e05a/public_url)
   - [CompTIA NET+ IN-PROGRESS](https://www.coursera.org)
