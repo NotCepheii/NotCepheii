@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [AD Home Lab](https://github.com/NotCepheii/LABURL)
+  - [AD Home Lab](https://github.com/NotCepheii/Active-Directory-Lab)
   - [Python Projects](https://github.com/NotCepheii/LABURL)
     
 <h2> Certifications</h2>
