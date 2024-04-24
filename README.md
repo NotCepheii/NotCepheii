@@ -10,7 +10,8 @@
   - [Google IT Support Professional & CompTIA A+ Dual Credential](https://www.credly.com/earner/earned/badge/a862f5d9-9a3e-469b-a392-f2ee468182d4)
   - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/FDCZC29NDT7Q)
   - [CompTIA A+](https://www.credly.com/badges/776f80d7-916a-44cd-adc2-f28c8ff0e05a/public_url)
-  - [CompTIA NET+ IN-PROGRESS](https://www.coursera.org)
+  - [CompTIA NET+](https://www.credly.com/earner/earned/badge/fa392986-f2c1-42f5-afff-14cdd57d595f)
+  - [COMPTIA IT Operations Specialist](https://www.credly.com/earner/earned/badge/6b67f188-ccac-4490-8023-4e5ae5fa2e2c)
   - [CompTIA SEC+ IN-PROGRESS](https://www.coursera.org)
   - [CompTIA CySA+ IN-PROGRESS](https://www.coursera.org)
 
