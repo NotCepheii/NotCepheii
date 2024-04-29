@@ -26,4 +26,8 @@
 [tryhackme]: https://tryhackme.com/p/NotCephei
 [linkedin]: https://www.linkedin.com/in/leo-roel-manalansan/
 
+<h3> Personal Development Books </h3>
+
+- [Linux For Dummies](https://www.amazon.com/Linux-Dummies-9th-Richard-Blum/dp/0470467010)
+- [Powershell](https://www.amazon.com/Windows-PowerShell-Cookbook-Scripting-Microsofts/dp/1449320686)
 
