@@ -9,7 +9,9 @@
 <h2> Certifications</h2>
 
   - [Google IT Support Professional & CompTIA A+ Dual Credential](https://www.credly.com/earner/earned/badge/a862f5d9-9a3e-469b-a392-f2ee468182d4)
+  - [Google IT Cybersecurity Certificate & CompTIA Security+ Dual Credential](https://www.credly.com/earner/earned/badge/dae76b18-0379-444a-a22a-688f8935a3a5)
   - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/FDCZC29NDT7Q)
+  - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/professional-cert/G4UWDN8KK7S7)
   - [CompTIA A+](https://www.credly.com/badges/776f80d7-916a-44cd-adc2-f28c8ff0e05a/public_url)
   - [CompTIA NET+](https://www.credly.com/earner/earned/badge/fa392986-f2c1-42f5-afff-14cdd57d595f)
   - [COMPTIA IT Operations Specialist](https://www.credly.com/earner/earned/badge/6b67f188-ccac-4490-8023-4e5ae5fa2e2c)
