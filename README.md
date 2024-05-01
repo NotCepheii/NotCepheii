@@ -14,7 +14,7 @@
   - [Google IT Support Certificate](https://www.coursera.org/account/accomplishments/professional-cert/G4UWDN8KK7S7)
   - [CompTIA A+](https://www.credly.com/badges/776f80d7-916a-44cd-adc2-f28c8ff0e05a/public_url)
   - [CompTIA NET+](https://www.credly.com/earner/earned/badge/fa392986-f2c1-42f5-afff-14cdd57d595f)
-  - [COMPTIA IT Operations Specialist](https://www.credly.com/earner/earned/badge/6b67f188-ccac-4490-8023-4e5ae5fa2e2c)
+  - [CompTIA IT Operations Specialist - CIOS Stackable Certification](https://www.credly.com/earner/earned/badge/6b67f188-ccac-4490-8023-4e5ae5fa2e2c)
   - [CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification](https://www.credly.com/org/comptia/badge/comptia-secure-infrastructure-specialist-csis-stackable-certification)
   - [CompTIA SEC+](https://www.credly.com/earner/earned/badge/63a11fac-766f-4507-a1bb-1f897dbbb361)
   - [CompTIA CySA+ IN-PROGRESS](https://www.coursera.org)
