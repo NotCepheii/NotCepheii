@@ -16,8 +16,9 @@
   - [CompTIA NET+](https://www.credly.com/earner/earned/badge/fa392986-f2c1-42f5-afff-14cdd57d595f)
   - [CompTIA IT Operations Specialist - CIOS Stackable Certification](https://www.credly.com/earner/earned/badge/6b67f188-ccac-4490-8023-4e5ae5fa2e2c)
   - [CompTIA Secure Infrastructure Specialist – CSIS Stackable Certification](https://www.credly.com/org/comptia/badge/comptia-secure-infrastructure-specialist-csis-stackable-certification)
+  - [CompTIA Security Analytics Professional – CSAP Stackable Certification](https://www.credly.com/badges/f239afa2-4d42-48a7-8136-ad89bf8a9190/public_url)
   - [CompTIA SEC+](https://www.credly.com/earner/earned/badge/63a11fac-766f-4507-a1bb-1f897dbbb361)
-  - [CompTIA CySA+ IN-PROGRESS](https://www.coursera.org)
+  - [CompTIA CySA+](https://www.credly.com/badges/f239afa2-4d42-48a7-8136-ad89bf8a9190/public_url)
 
 
 <h2> 🤳 Connect with me:</h2>
