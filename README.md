@@ -19,6 +19,7 @@
   - [CompTIA Security Analytics Professional – CSAP Stackable Certification](https://www.credly.com/badges/f239afa2-4d42-48a7-8136-ad89bf8a9190/public_url)
   - [CompTIA SEC+](https://www.credly.com/earner/earned/badge/63a11fac-766f-4507-a1bb-1f897dbbb361)
   - [CompTIA CySA+](https://www.credly.com/badges/f239afa2-4d42-48a7-8136-ad89bf8a9190/public_url)
+  - [LPI Essentials](https://cs.lpi.org/caf/Xamman/candidate_area/certificate/LE-1/r5la6vm6aq)
 
 
 <h2> 🤳 Connect with me:</h2>
